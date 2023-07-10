@@ -1,0 +1,7 @@
+-- Preguntar en la práctica --
+
+7/10 - obtenerTiposDocumento() no tiene en la interface que debe propagar excepción, lo agregamos?
+7/10 - ¿qué sería "cargo" y "nro de sucursal" de la clase EmpleadoBean?
+8/10 - Cuando se busca un vuelo dice "DESDE" no "PARA EL DIA" o sea, nosotros ponemos exactamente una fecha, tendria que ser si la fecha del vuelo es mayor o igual a la fecha ingresada??
+	Lo mismo hasta... pero esta vez esa fecha tendria que ser igual o no?
+	(En el caso de que ambas tendria que ser iguales anda joya, ya lo testie)
